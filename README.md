@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @AbonRusso
-- 👀 I’m interested in FLY
-- 🌱 I’m currently learning PHP
-- 💞️ I’m looking to ...
-- 📫 How to reach me ...
+- 👀 I’m interested to FLY
+- 🌱 I’m learning PHP
+- 💞️ I’m looking to DIE
+- 📫 How to reach me NAH
